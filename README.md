@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Nakulsingla
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on open-source projects, especially in web development and automation.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love hiking and exploring new places!
